@@ -1,15 +1,13 @@
 Author-Detection-Svm
 ====================
 
-Authorship detection by Serge Kosyrev
-Supervised by Dr Mstislav Maslennikov
+Authorship detection by Serge Kosyrev, supervised by Dr Mstislav Maslennikov
 
 This is a project for the "Mathematical methods for text analysis" course in spring 2013 in MSU. 
 
 Kindly refer to 
-(1) report_Kosyrev_authority.pdf
-(2) vk.com/mathtexts -> achievements of listeners
-    http://vk.com/topic-50553132_28815796
+- report_Kosyrev_authority.pdf
+- vk.com/mathtexts -> achievements of listeners (http://vk.com/topic-50553132_28815796)
 
 
 License
