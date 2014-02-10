@@ -3,7 +3,7 @@ Author-Detection-Svm
 
 Authorship detection by Sergey Kosyrev, supervised by Dr Mstislav Maslennikov
 
-Nickname: anAuthor 13a
+Nickname: AnAuthor 13a
 
 This is a project for the "Mathematical methods for text analysis" course in spring 2013 in MSU. 
 
